@@ -1,0 +1,9 @@
+employee-producer = 8080
+employee-consumer = 8081
+
+eureka-server-registry = 9090
+employee-producer-eureka-registry = 9091
+employee-consumer-eureka-registry = 9092
+
+employee-producer-ribbon-eureka-registry = 9093
+employee-consumer-ribbon-eureka-registry = 9095
